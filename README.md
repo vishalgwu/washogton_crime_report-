@@ -17,6 +17,9 @@ Handle missing values, inconsistencies, and outliers in the dataset.
 ## Advanced Visualizations:
 Create insightful visualizations such as heatmaps, bar plots, and geographical plots to communicate crime patterns effectively.
 
+![](https://github.com/vishalgwu/washogton_crime_report-/blob/main/unnamed-chunk-53-1.png)
+
+
 ## Predictive Insights:
 Use statistical models or machine learning (if applicable) to predict potential crime hotspots or trends.
 
@@ -26,3 +29,5 @@ Maintain a clear project structure, including raw data, cleaned data, and script
 
 ## Public Safety Awareness:
 Provide actionable insights to help policymakers, law enforcement, and the general public make informed decisions.
+![](https://github.com/vishalgwu/washogton_crime_report-/blob/main/unnamed-chunk-56-1.png)
+

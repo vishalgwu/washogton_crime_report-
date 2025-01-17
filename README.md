@@ -1,4 +1,4 @@
-# washington DC crime report project
+# Washington DC crime report project
 ![](https://github.com/vishalgwu/washogton_crime_report-/blob/main/images.jpeg)
 
 The Washington Crime Project aims to analyze and visualize crime data in Washington, DC, focusing on identifying crime patterns and hotspots. The project leverages statistical analysis and machine learning techniques to explore relationships between crime methods, locations, and time periods. The ultimate goal is to provide actionable insights for reducing gun offenses by ward and district, while fostering a better understanding of crime trends for informed decision-making.
